@@ -4,7 +4,7 @@ The [***DIFFgraph***](https://diffgraph.github.io/) *tool* or actually a format,
 
 The vision for [***DIFFgraph***](https://diffgraph.github.io/) STARTS with something like an annotated, discussed graphical hybridization of different ideas, in the manner of what [what ConnectedPapers is about](https://www.connectedpapers.com/about) but it is intended to be a more democratized extension beyond pre-print scientific paper archives to things like Git repositories and beyond... the [***DIFFgraph***](https://diffgraph.github.io/) conversation threads themselves are data, which can be stored in Git repos, or threadrolled copies of jams on differences/similarities/hybridizations.
 
-Thus vision for this DIFFgraph is extremely minimalist ... perhaps restricted to something like Markdown or JSON / CSV formatted lists ... at MOST something, it becomes like a plug-in ... but automating a ***FORMATTED*** list is easy; the difficulty is in the STANDARDIZATION of the format ... *any/every moron can automate* 
+Thus vision for this DIFFgraph is extremely minimalist ... perhaps restricted to something like Markdown or JSON / CSV formatted lists ... at MOST something, it becomes like a plug-in ... but automating a ***FORMATTED*** list is easy; the difficulty is in the STANDARDIZATION of the format ... ***any moron can automate; EVERY moron feels compelled to*** 
 
 The objective is probably something like GraphQL or what would be a stepping stone to GraphQL, but human-readable, ie even less code-dependent ... for more reliable, simpler note-taking that is almost tool-agnositic ... for annotating threads and discussing graphical linkages that are about hybridization of different but similiar, maybe related ideas.
 
