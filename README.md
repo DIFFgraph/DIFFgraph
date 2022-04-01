@@ -1,8 +1,12 @@
 # DIFFgraph
 
-The DIFFgraph tool itself is for adding social knowledge engineering to other content. 
+The [***DIFFgraph***](https://diffgraph.github.io/) *tool* or actually a format, which might better be described as something akin to a [*conventional commits*](https://www.conventionalcommits.org/en/v1.0.0/) format is for social knowledge engineering. 
 
-The vision for this DIFFgraph is minimalist; perhaps restricted to something like Markdown or JSON / CSV formatted lists ... at MOST something like a plug-in. The objective is probably something like GraphQL or a stepping stone to GraphQL, but even less code-intensive ... for more reliable, simpler note-taking that is almost tool-agnositic ... for annotating threads and discussing graphical linkages that are about hybridization of different but similiar, maybe related ideas.
+The vision for [***DIFFgraph***](https://diffgraph.github.io/) STARTS with something like an annotated, discussed graphical hybridization of different ideas, in the manner of what [what ConnectedPapers is about](https://www.connectedpapers.com/about) but it is intended to be a more democratized extension beyond pre-print scientific paper archives to things like Git repositories and beyond... the [***DIFFgraph***](https://diffgraph.github.io/) conversation threads themselves are data, which can be stored in Git repos, or threadrolled copies of jams on differences/similarities/hybridizations.
+
+Thus vision for this DIFFgraph is extremely minimalist ... perhaps restricted to something like Markdown or JSON / CSV formatted lists ... at MOST something, it becomes like a plug-in ... but automating a ***FORMATTED*** list is easy; the difficulty is in the STANDARDIZATION of the format ... *any/every moron can automate* 
+
+The objective is probably something like GraphQL or what would be a stepping stone to GraphQL, but human-readable, ie even less code-dependent ... for more reliable, simpler note-taking that is almost tool-agnositic ... for annotating threads and discussing graphical linkages that are about hybridization of different but similiar, maybe related ideas.
 
 This objective of this tool would be for adding what ConnectedPapers is about to other content. The point is to take discussions into a meta-discussion realm of connections rather than mere factoids ... this realm extends beyond pre-print scientific paper archives to things like Git repositories. 
 
