@@ -10,7 +10,7 @@ This objective of this tool would be for adding what ConnectedPapers is about to
 
 DIFFgraph is really about more than just making connections ... it's about really listening, arguing, debating and ***understanding*** DIFFERENCES. 
 
-DIFFversity is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... because DIFFversity is about ***appreciating differences rather than forcing conformity.***
+[DIFFversity](https://diffwtf.github.io/) is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... because [DIFFversity](https://diffwtf.github.io/) is about ***appreciating differences rather than forcing conformity.***
 
 The foreseen DIFFgraph discussions would become a sort of a jam on differences/similarities/hybridizations ... ***it's not just about connections -- it's also about differences.***
 
