@@ -5,7 +5,7 @@ permalink: /Listify/
 ---
 
 
-# Listification is **HYBRID intelligence
+# Listification is HYBRID intelligence
 
 Annotated lists help form the basis of algorithms behind semiotic and semantic graphs ... it's really a matter of growing or extending noospheres with organic, "almost mycorrhizal" living conceptual pathways.
 
@@ -15,16 +15,6 @@ The manual EXERCISE of continually curating annotated reading lists is really ab
 
 # Listing of Listified Lists
 
-## Curated WOD Collections
-
-Our process of revising and edit Workout Lists is that we really must do these workouts.
-
-* Tabatas
-
-* 5S Housekeeping
-
-* Hikes
-
 ## Curated Art Collections
 
 * Landsculpting
@@ -32,17 +22,6 @@ Our process of revising and edit Workout Lists is that we really must do these w
 * Photography
 
 * Museums and Galleries
-
-## Curated Reading Collections
-
-* Classics
-
-* Newsreaders
-
-* Pre-Print Archives
-
-* Threads / Comment Poetry
-
 ## Curated Nanoenterprise Collections
 
 We also think in terms of other lists for Ventures
@@ -54,4 +33,24 @@ We also think in terms of other lists for Ventures
 * Asynchronous Workflow Reading List
 
 * Computational Linguistics Reading List
+
+## Curated Reading Collections
+
+* Classics
+
+* Newsreaders
+
+* Pre-Print Archives
+
+* Threads / Comment Poetry
+
+## Curated Workout Collections
+
+Our process of revising and edit Workout Lists is that we really must do these workouts.
+
+* Tabatas
+
+* 5S Housekeeping
+
+* Hikes
 
