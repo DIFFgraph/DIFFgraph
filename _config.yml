@@ -1,9 +1,9 @@
 # Site settings
-title: MarkBruns
-email: MarkBruns@MarkBruns.com
-description: A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579
-twitter_username: MarkBruns
-github_username:  MarkBruns
+title: DIFFgraph
+email: NOOB@diff.WTF
+description: Graph in the pompatus of DIFF . . . Learn. Appreciate. UNDERSTAND.
+twitter_username: DIFFversity
+github_username:  DIFFgraph
 
 # Build settings
 markdown: kramdown
