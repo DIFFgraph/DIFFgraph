@@ -5,7 +5,9 @@ permalink: /Art/
 ---
 
 
-Art is first, because art is DIFFERENT. Art teaches us to value DIFFERENCE, because ART is perhaps worthy because it is just being itself ... we can APPRECIATED conflicting, antagonistic, warring forms of art.  
+Art is first, because ***art is DIFFERENT.*** 
+
+Art really teaches us to value DIFFERENCE and why we value difference ... ART is perhaps worthy because it is just being itself ... we can APPRECIATED conflicting, antagonistic, warring forms of art.  
 
 We ***look*** at Art ... as VISUAL change in pace of work ... it's ***GRAPHICAL*** ... even if our existing graphs are not that artistic or expressive yet.
 
